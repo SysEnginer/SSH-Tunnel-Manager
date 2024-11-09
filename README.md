@@ -26,7 +26,7 @@
 ## Установка и запуск
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/ssh-tunnel-manager.git
+   git clone https://github.com/SysEnginer/ssh-tunnel-manager.git
    cd ssh-tunnel-manager
 2. Соберите и запустите программу:
   ```bash
